@@ -1,0 +1,76 @@
+.hero-block_content {
+    width: 1400px;
+    flex-shrink: 0;
+    display: flex;
+    flex-direction: column;
+    position: absolute;
+    align-items: center;
+    margin-left: 550px;
+    background: #AB81C9;
+    height: 100%;
+}
+
+.hero-block_title {
+    color: #000000;
+    font-size: 25px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+
+.logo-img {
+    width: 162px;
+    height: 142px;
+    border-radius: 100px;
+    margin-top: 15px;
+}
+
+.hero-bloсk_title {
+    color: #FFF;
+    font-size: 25px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+
+.hero-block_btn {
+    width: 800px;
+    height: 83px;
+    border-radius: 45px;
+    background: rgb(0, 0, 0);
+    margin-top: 90px;
+    border: none;
+}
+.hero-block_href {
+    color: #ffffff;
+}
+body{
+margin: 0px 0px;
+height: 100vh;
+}
+.main{
+    height: 100%;
+}
+.hero-block{
+    height: 100%;
+}
+.hero-block_img1{
+    width: 500px;
+    margin-bottom: none;
+}
+.hero-block_img2{
+    width: 500px;
+    
+    position: absolute;
+    right: 0;
+    top: 0;
+    
+}
+.hero-block_href{
+    text-decoration: none;
+}
+body{
+    background-image: url('../img/siren1.png');
+    background-repeat: no-repeat;
+    background-size: cover; 
+}
